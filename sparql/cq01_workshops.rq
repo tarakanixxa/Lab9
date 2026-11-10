@@ -1,0 +1,6 @@
+PREFIX : <http://example.org/manufacturing-ontology#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?workshop ?name WHERE {
+  :ЗаводМеталДеталь :маєЦех ?workshop .
+  ?workshop :назва ?name .
+}

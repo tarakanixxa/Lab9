@@ -1,0 +1,8 @@
+PREFIX : <http://example.org/manufacturing-ontology#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?process ?processName ?material ?materialName WHERE {
+  :ПроцесВиготовленняВала :використовуєМатеріал ?material .
+  :ПроцесВиготовленняВала :назва ?processName .
+  ?material :назва ?materialName .
+  BIND(:ПроцесВиготовленняВала AS ?process)
+}

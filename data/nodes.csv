@@ -1,0 +1,121 @@
+﻿id,label,name,code,status,quantity,unit,description
+FC-001,Factory,Завод Метал-Деталь,FC-001,active,,,Навчальна модель виробничого підприємства
+WS-01,Workshop,Механічний цех,WS-01,active,,,
+WS-02,Workshop,Цех контролю якості,WS-02,active,,,
+WS-03,Workshop,Інструментальний цех,WS-03,active,,,
+WS-04,Workshop,Складський цех,WS-04,active,,,
+MC-01,Machine,Верстат ЧПК 01,MC-01,active,,,Умовна одиниця обладнання
+MC-02,Machine,Верстат ЧПК 02,MC-02,active,,,Умовна одиниця обладнання
+MC-03,Machine,Верстат ЧПК 03,MC-03,active,,,Умовна одиниця обладнання
+MC-04,Machine,Верстат ЧПК 04,MC-04,active,,,Умовна одиниця обладнання
+MC-05,Machine,Верстат ЧПК 05,MC-05,maintenance,,,Умовна одиниця обладнання
+MC-06,Machine,Верстат ЧПК 06,MC-06,active,,,Умовна одиниця обладнання
+MC-07,Machine,Верстат ЧПК 07,MC-07,active,,,Умовна одиниця обладнання
+MC-08,Machine,Верстат ЧПК 08,MC-08,active,,,Умовна одиниця обладнання
+MC-09,Machine,Верстат ЧПК 09,MC-09,active,,,Умовна одиниця обладнання
+MC-10,Machine,Верстат ЧПК 10,MC-10,active,,,Умовна одиниця обладнання
+MC-11,Machine,Верстат ЧПК 11,MC-11,active,,,Умовна одиниця обладнання
+MC-12,Machine,Верстат ЧПК 12,MC-12,active,,,Умовна одиниця обладнання
+MC-13,Machine,Верстат ЧПК 13,MC-13,maintenance,,,Умовна одиниця обладнання
+MC-14,Machine,Верстат ЧПК 14,MC-14,active,,,Умовна одиниця обладнання
+MC-15,Machine,Верстат ЧПК 15,MC-15,active,,,Умовна одиниця обладнання
+MC-16,Machine,Верстат ЧПК 16,MC-16,active,,,Умовна одиниця обладнання
+MC-17,Machine,Верстат ЧПК 17,MC-17,active,,,Умовна одиниця обладнання
+MC-18,Machine,Верстат ЧПК 18,MC-18,active,,,Умовна одиниця обладнання
+MC-19,Machine,Верстат ЧПК 19,MC-19,active,,,Умовна одиниця обладнання
+MC-20,Machine,Верстат ЧПК 20,MC-20,active,,,Умовна одиниця обладнання
+EM-01,Employee,Працівник 01,EM-01,active,,,
+EM-02,Employee,Працівник 02,EM-02,active,,,
+EM-03,Employee,Працівник 03,EM-03,active,,,
+EM-04,Employee,Працівник 04,EM-04,active,,,
+EM-05,Employee,Працівник 05,EM-05,active,,,
+EM-06,Employee,Працівник 06,EM-06,active,,,
+EM-07,Employee,Працівник 07,EM-07,active,,,
+EM-08,Employee,Працівник 08,EM-08,active,,,
+EM-09,Employee,Працівник 09,EM-09,active,,,
+EM-10,Employee,Працівник 10,EM-10,active,,,
+EM-11,Employee,Працівник 11,EM-11,active,,,
+EM-12,Employee,Працівник 12,EM-12,active,,,
+EM-13,Employee,Працівник 13,EM-13,active,,,
+EM-14,Employee,Працівник 14,EM-14,active,,,
+EM-15,Employee,Працівник 15,EM-15,active,,,
+EM-16,Employee,Працівник 16,EM-16,active,,,
+EM-17,Employee,Працівник 17,EM-17,active,,,
+EM-18,Employee,Працівник 18,EM-18,active,,,
+EM-19,Employee,Працівник 19,EM-19,active,,,
+EM-20,Employee,Працівник 20,EM-20,active,,,
+MT-01,Material,Матеріал 01 — сталь 45,MT-01,active,265,кг,
+MT-02,Material,Матеріал 02,MT-02,active,280,кг,
+MT-03,Material,Матеріал 03,MT-03,active,295,кг,
+MT-04,Material,Матеріал 04,MT-04,active,310,кг,
+MT-05,Material,Матеріал 05,MT-05,active,325,кг,
+MT-06,Material,Матеріал 06,MT-06,active,340,кг,
+MT-07,Material,Матеріал 07,MT-07,active,355,кг,
+MT-08,Material,Матеріал 08,MT-08,active,370,кг,
+MT-09,Material,Матеріал 09,MT-09,active,385,кг,
+MT-10,Material,Матеріал 10,MT-10,active,400,кг,
+PR-01,Product,Вал сталевий 01,PR-01,active,110,шт,
+PR-02,Product,Вал сталевий 02,PR-02,active,120,шт,
+PR-03,Product,Вал сталевий 03,PR-03,active,130,шт,
+PR-04,Product,Вал сталевий 04,PR-04,active,140,шт,
+PR-05,Product,Вал сталевий 05,PR-05,active,150,шт,
+PR-06,Product,Вал сталевий 06,PR-06,active,160,шт,
+PR-07,Product,Вал сталевий 07,PR-07,active,170,шт,
+PR-08,Product,Вал сталевий 08,PR-08,active,180,шт,
+PR-09,Product,Вал сталевий 09,PR-09,active,190,шт,
+PR-10,Product,Вал сталевий 10,PR-10,active,200,шт,
+PC-01,Process,Процес виготовлення валу 01,PC-01,active,,,
+PC-02,Process,Процес виготовлення валу 02,PC-02,active,,,
+PC-03,Process,Процес виготовлення валу 03,PC-03,active,,,
+PC-04,Process,Процес виготовлення валу 04,PC-04,active,,,
+PC-05,Process,Процес виготовлення валу 05,PC-05,active,,,
+PC-06,Process,Процес виготовлення валу 06,PC-06,active,,,
+PC-07,Process,Процес виготовлення валу 07,PC-07,active,,,
+PC-08,Process,Процес виготовлення валу 08,PC-08,active,,,
+PC-09,Process,Процес виготовлення валу 09,PC-09,active,,,
+PC-10,Process,Процес виготовлення валу 10,PC-10,active,,,
+OP-01,Operation,Точіння — операція 01,OP-01,active,,,
+OP-02,Operation,Точіння — операція 02,OP-02,active,,,
+OP-03,Operation,Точіння — операція 03,OP-03,active,,,
+OP-04,Operation,Точіння — операція 04,OP-04,active,,,
+OP-05,Operation,Точіння — операція 05,OP-05,active,,,
+OP-06,Operation,Фрезерування — операція 06,OP-06,active,,,
+OP-07,Operation,Фрезерування — операція 07,OP-07,active,,,
+OP-08,Operation,Фрезерування — операція 08,OP-08,active,,,
+OP-09,Operation,Фрезерування — операція 09,OP-09,active,,,
+OP-10,Operation,Фрезерування — операція 10,OP-10,active,,,
+OP-11,Operation,Свердління — операція 11,OP-11,active,,,
+OP-12,Operation,Свердління — операція 12,OP-12,active,,,
+OP-13,Operation,Свердління — операція 13,OP-13,active,,,
+OP-14,Operation,Свердління — операція 14,OP-14,active,,,
+OP-15,Operation,Свердління — операція 15,OP-15,active,,,
+OP-16,Operation,Шліфування — операція 16,OP-16,active,,,
+OP-17,Operation,Шліфування — операція 17,OP-17,active,,,
+OP-18,Operation,Шліфування — операція 18,OP-18,active,,,
+OP-19,Operation,Шліфування — операція 19,OP-19,active,,,
+OP-20,Operation,Шліфування — операція 20,OP-20,active,,,
+DF-01,Defect,Дефект геометрії 01,DF-01,closed,,,
+DF-02,Defect,Дефект геометрії 02,DF-02,closed,,,
+DF-03,Defect,Дефект геометрії 03,DF-03,open,,,
+DF-04,Defect,Дефект геометрії 04,DF-04,closed,,,
+DF-05,Defect,Дефект геометрії 05,DF-05,closed,,,
+DF-06,Defect,Дефект геометрії 06,DF-06,open,,,
+DF-07,Defect,Дефект геометрії 07,DF-07,closed,,,
+DF-08,Defect,Дефект геометрії 08,DF-08,closed,,,
+DF-09,Defect,Дефект геометрії 09,DF-09,open,,,
+MTN-01,Maintenance,ТО обладнання 01,MTN-01,planned,,,
+MTN-02,Maintenance,ТО обладнання 02,MTN-02,completed,,,
+MTN-03,Maintenance,ТО обладнання 03,MTN-03,planned,,,
+MTN-04,Maintenance,ТО обладнання 04,MTN-04,completed,,,
+MTN-05,Maintenance,ТО обладнання 05,MTN-05,planned,,,
+IV-01,Inventory,Партія матеріалу 01,IV-01,active,320,кг,
+IV-02,Inventory,Партія матеріалу 02,IV-02,active,340,кг,
+IV-03,Inventory,Партія матеріалу 03,IV-03,active,360,кг,
+IV-04,Inventory,Партія матеріалу 04,IV-04,active,380,кг,
+IV-05,Inventory,Партія матеріалу 05,IV-05,active,400,кг,
+IV-06,Inventory,Партія матеріалу 06,IV-06,active,420,кг,
+IV-07,Inventory,Партія матеріалу 07,IV-07,active,440,кг,
+IV-08,Inventory,Партія матеріалу 08,IV-08,active,460,кг,
+IV-09,Inventory,Партія матеріалу 09,IV-09,active,480,кг,
+IV-10,Inventory,Партія матеріалу 10,IV-10,active,500,кг,
+CP-001,ProductionComplex,Львівський виробничий комплекс,CP-001,active,,,Організаційний рівень над заводом

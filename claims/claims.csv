@@ -1,0 +1,11 @@
+﻿id,claim,type,source,verification_level,status,comment
+CL-01,Предметна область ЛР 9 продовжує виробничий комплекс «Львів» / Metal-Detail,fact,README ЛР 7 та попередні матеріали користувача,V2,verified,Зіставлено з наявним README та звітом ЛР 7.
+CL-02,"OWL-модель ЛР 7 містить 38 класів, 24 object properties і 12 datatype properties",fact,README/звіт ЛР 7,V1,pending,Показники з попереднього протоколу; за потреби звірити з актуальним ontology file.
+CL-03,Усі вузли й ребра CSV є навчальними синтетичними даними,fact,Генератор data/*.csv,V2,verified,"Дані створені для лабораторного тесту, не є фактичними даними підприємства."
+CL-04,У графі має бути не менше 100 вузлів і 200 зв'язків,rule,Методичні вимоги ЛР 9,V1,verified,Перевіряється COUNT після імпорту.
+CL-05,"Кожен зв'язок повинен мати source, confidence, validFrom",rule,Методичні вимоги ЛР 9,V1,verified,Колонки присутні у relationships.csv та імпортному Cypher.
+CL-06,MERGE робить повторний імпорт ідемпотентним за унікальними ключами,hypothesis,Neo4j Cypher semantics; import/import.cypher,V2,pending,Підтвердити повторним запуском і порівнянням counts.
+CL-07,PageRank відображає структурну важливість вузлів у спроєктованому графі,fact,Neo4j Graph Data Science documentation,V1,verified,Не трактувати як фізичну критичність обладнання.
+CL-08,Louvain виявляє спільноти за структурою зв'язків,fact,Neo4j Graph Data Science documentation,V1,verified,Інтерпретація потребує ручної перевірки.
+CL-09,Aura-конфігурація користувача підтримує GDS процедури,hypothesis,Перевірка доступності GDS у вибраному Aura tier,V1,pending,Перевірити CALL gds.version(); доступ залежить від тарифу/продукту.
+CL-10,"Чернетки SPARQL використовують ті самі IRI/предикати, що ЛР 7",hypothesis,sparql/*.rq та models/onto.owl з ЛР 7,V1,pending,Обов'язково замінити example.org та перевірити IRI перед запуском.
